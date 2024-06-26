@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #F6F6F8;
+  ;
+}
+
+/* @layer components {
+  .text-brand {
+    color: #a35709;
+  }
+  } */
